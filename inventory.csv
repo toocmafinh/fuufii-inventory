@@ -1,0 +1,531 @@
+SKU,Product,Variation,Supplier Code,Unit Cost (CNY),Qty,Shipping Alloc (CNY),Line Total (CNY),Nett Cost (AUD)
+sticker-candy-clear,Sticker,candy-clear,Z010944,1.4,2,1.11,3.91,0.415
+washi-bunny-lucky,Washi,bunny-lucky,A002087,2.9,2,2.30,8.10,0.865
+washi-clover-lucky,Washi,clover-lucky,A002086,2.9,2,2.30,8.10,0.865
+washi-fair-isle-bunny-a,Washi,fair-isle-bunny-a,A002074,3,2,2.38,8.38,0.890
+washi-fair-isle-b-leopard,Washi,fair-isle-b-leopard,A002077,3,2,2.38,8.38,0.890
+washi-fair-isle-bunny-b,Washi,fair-isle-bunny-b,A002075,3,2,2.38,8.38,0.890
+washi-fair-isle-a-leopard,Washi,fair-isle-a-leopard,A002076,3,2,2.38,8.38,0.890
+washi-misty-blue-heart-b,Washi,misty-blue-heart-b,A002081,2,2,1.59,5.59,0.595
+washi-misty-blue-heart-a,Washi,misty-blue-heart-a,A002080,2.9,2,2.30,8.10,0.865
+sticker-time-memory,Sticker,time-memory,LEPLLANSE-7804B,3.5,10,13.89,48.89,1.041
+sticker-01,Sticker,,Z0976,1.3,2,1.03,3.63,0.385
+sticker-02,Sticker,,Z0970,1.3,2,1.03,3.63,0.385
+sticker-03,Sticker,,Z0975,1.3,2,1.03,3.63,0.385
+sticker-yellow-butterfly,Sticker,yellow-butterfly,X55665,0.5,2,0.40,1.40,0.150
+sticker-04,Sticker,,L134333,1.5,2,1.19,4.19,0.445
+sticker-05,Sticker,,L134332,1.5,2,1.19,4.19,0.445
+sticker-time-food-retro,Sticker,time-food-retro,LEPLLANSE-7804A,3.9,10,15.48,54.48,1.160
+sticker-sushi-retro,Sticker,sushi-retro,Z010937,1.2,2,0.95,3.35,0.355
+sticker-snack-retro,Sticker,snack-retro,Z010935,1.2,2,0.95,3.35,0.355
+sticker-lucky-retro,Sticker,lucky-retro,Z010936,1.2,2,0.95,3.35,0.355
+sticker-sushi-retro-2,Sticker,sushi-retro,Z010937,1.2,2,0.95,3.35,0.355
+tape-sewing-star,Tape,sewing-star,35JD26050405,2.8,2,2.22,7.82,0.835
+tape-lace-sweet,Tape,lace-sweet,35JD26050403,2.8,2,2.22,7.82,0.835
+tape-dot-denim,Tape,dot-denim,35JD26050406,2.8,2,2.22,7.82,0.835
+tape-strawberry-heart,Tape,strawberry-heart,35JD26050401,2.8,2,2.22,7.82,0.835
+tape-flower,Tape,flower,35JD26050402,2.8,2,2.22,7.82,0.835
+tape-01,Tape,,MG036-0965,4,1,1.59,5.59,1.190
+tape-sakura,Tape,sakura,MG036-0963,4,1,1.59,5.59,1.190
+tape-02,Tape,,MG036-0966,4,1,1.59,5.59,1.190
+tape-03,Tape,,MG036-0964,4,1,1.59,5.59,1.190
+tape-coffee,Tape,coffee,ENA2501006,3,2,2.38,8.38,0.890
+tape-04,Tape,,ENA2501005,3,2,2.38,8.38,0.890
+tape-05,Tape,,ENA2501004,3,2,2.38,8.38,0.890
+tape-06,Tape,,ENA2501001,3,2,2.38,8.38,0.890
+tape-green,Tape,green,ENA2501002,3,1,1.19,4.19,0.890
+tape-07,Tape,,ENA2501003,3,2,2.38,8.38,0.890
+tote-01,Tote,,,2,10,7.94,27.94,0.595
+tote-02,Tote,,,2,10,7.94,27.94,0.595
+tote-03,Tote,,,2,15,11.91,41.91,0.595
+tote-04,Tote,,,2,10,7.94,27.94,0.595
+tote-05,Tote,,,2,10,7.94,27.94,0.595
+tote-06,Tote,,,2,15,11.91,41.91,0.595
+tote-07,Tote,,,2,10,7.94,27.94,0.595
+tote-08,Tote,,,2,10,7.94,27.94,0.595
+tote-09,Tote,,,2,10,7.94,27.94,0.595
+plush-01,Plush,,,2.89,3,3.44,12.11,0.860
+plush-02,Plush,,,2.89,3,3.44,12.11,0.860
+plush-03,Plush,,,2.89,3,3.44,12.11,0.860
+plush-04,Plush,,,2.89,3,3.44,12.11,0.860
+plush-05,Plush,,,2.89,3,3.44,12.11,0.860
+plush-06,Plush,,,2.89,3,3.44,12.11,0.860
+plush-07,Plush,,,2.89,3,3.44,12.11,0.860
+plush-08,Plush,,,2.89,3,3.44,12.11,0.860
+plush-09,Plush,,,2.89,3,3.44,12.11,0.860
+clip-01,Clip,,A299-荷叶小库,0.71,2,0.56,1.98,0.210
+clip-02,Clip,,A299-荷叶小帕,0.71,2,0.56,1.98,0.210
+clip-03,Clip,,A299-荷叶小美,0.71,2,0.56,1.98,0.210
+clip-04,Clip,,A299-荷叶小布,0.71,2,0.56,1.98,0.210
+notebook-blue-heart-dog,Notebook,blue-heart-dog,蓝色爱心玉桂狗,0.83,3,0.99,3.48,0.247
+notebook-green-heart-blue-dog,Notebook,green-heart-blue-dog,蓝绿色爱心帕恰狗,0.83,3,0.99,3.48,0.247
+notebook-purple-heart-a,Notebook,purple-heart-a,紫色爱心库洛米,0.83,3,0.99,3.48,0.247
+notebook-heart-brown-dog,Notebook,heart-brown-dog,棕色爱心布丁狗,0.83,3,0.99,3.48,0.247
+notebook-pink-heart,Notebook,pink-heart,粉色爱心美乐蒂,0.83,3,0.99,3.48,0.247
+notebook-pink-a,Notebook,pink-a,A7粉色美乐蒂线圈本,0.83,3,0.99,3.48,0.247
+notebook-blue-dog-a,Notebook,blue-dog-a,A7蓝色玉桂狗线圈本,0.83,3,0.99,3.48,0.247
+notebook-purple-a,Notebook,purple-a,A7紫色库洛米线圈本,0.83,3,0.99,3.48,0.247
+notebook-brown-dog-a,Notebook,brown-dog-a,A7棕色 布丁狗线圈本,0.83,3,0.99,3.48,0.247
+notebook-bear-brown-a,Notebook,bear-brown-a,A7棕色奶油小熊线圈本,0.83,3,0.99,3.48,0.247
+notebook-green-dog-a,Notebook,green-dog-a,A7绿色帕恰狗线圈本,0.83,3,0.99,3.48,0.247
+notebook-cat-strawberry-a,Notebook,cat-strawberry-a,A7青色草莓猫咪线圈本,0.83,3,0.99,3.48,0.247
+bag-01,Bag,,nl3847,1.24,25,12.31,43.31,0.369
+bag-02,Bag,,nl4050,1.34,20,10.64,37.44,0.398
+clip-05,Clip,,A77小帕毛线,0.72,2,0.57,2.01,0.215
+clip-06,Clip,,A77小玉毛线,0.72,2,0.57,2.01,0.215
+clip-07,Clip,,A77小美毛线,0.72,2,0.57,2.01,0.215
+clip-08,Clip,,A77小布毛线,0.72,2,0.57,2.01,0.215
+clip-09,Clip,,A77小库毛线,0.72,2,0.57,2.01,0.215
+clip-10,Clip,,A77小凯毛线,0.72,2,0.57,2.01,0.215
+clip-11,Clip,,A79小库吃东西,0.72,2,0.57,2.01,0.215
+clip-12,Clip,,A79小玉坐月亮,0.72,2,0.57,2.01,0.215
+clip-13,Clip,,A79小凯抱熊,0.72,2,0.57,2.01,0.215
+clip-14,Clip,,A79小布吃甜品,0.72,2,0.57,2.01,0.215
+clip-15,Clip,,A79小帕玩球,0.72,2,0.57,2.01,0.215
+clip-16,Clip,,A121杯子小玉,0.72,3,0.86,3.02,0.213
+clip-17,Clip,,A121杯子小布,0.72,3,0.86,3.02,0.213
+clip-18,Clip,,A121杯子小美,0.72,3,0.86,3.02,0.213
+clip-19,Clip,,A121杯子小凯,0.72,3,0.86,3.02,0.213
+clip-20,Clip,,A121杯子小帕,0.72,3,0.86,3.02,0.213
+clip-21,Clip,,A121杯子小库,0.72,3,0.86,3.02,0.213
+clip-22,Clip,,A129爆米花小凯,0.72,2,0.57,2.01,0.215
+clip-23,Clip,,A129爆米花小布,0.72,2,0.57,2.01,0.215
+clip-24,Clip,,A129爆米花小玉,0.72,2,0.57,2.01,0.215
+clip-25,Clip,,A129爆米花小库,0.72,2,0.57,2.01,0.215
+clip-26,Clip,,A129爆米花小帕,0.72,2,0.57,2.01,0.215
+clip-27,Clip,,A129爆米花小美,0.72,2,0.57,2.01,0.215
+clip-28,Clip,,A136送花小凯,0.72,2,0.57,2.01,0.215
+clip-29,Clip,,A136送花小美,0.72,2,0.57,2.01,0.215
+clip-30,Clip,,A136送花小布,0.72,2,0.57,2.01,0.215
+clip-31,Clip,,A136送花小库,0.72,2,0.57,2.01,0.215
+clip-32,Clip,,A136送花小帕,0.72,2,0.57,2.01,0.215
+clip-33,Clip,,A136送花小玉,0.72,2,0.57,2.01,0.215
+clip-34,Clip,,A162骑车小帕,0.72,2,0.57,2.01,0.215
+clip-35,Clip,,A162骑车小玉,0.72,2,0.57,2.01,0.215
+clip-36,Clip,,A162骑车小凯,0.72,2,0.57,2.01,0.215
+clip-37,Clip,,A162骑车小美,0.72,2,0.57,2.01,0.215
+clip-38,Clip,,A162骑车小布,0.72,2,0.57,2.01,0.215
+clip-39,Clip,,A162骑车小库,0.72,2,0.57,2.01,0.215
+clip-40,Clip,,A272喝牛奶小美,0.72,2,0.57,2.01,0.215
+clip-41,Clip,,A272喝牛奶小帕,0.72,2,0.57,2.01,0.215
+clip-42,Clip,,A272喝牛奶小库,0.72,2,0.57,2.01,0.215
+clip-43,Clip,,A272喝牛奶小凯,0.72,2,0.57,2.01,0.215
+clip-44,Clip,,A272喝牛奶小布,0.72,2,0.57,2.01,0.215
+clip-45,Clip,,A272喝牛奶小玉,0.72,2,0.57,2.01,0.215
+clip-46,Clip,,A274吐司靠枕小凯,0.72,3,0.86,3.02,0.213
+clip-47,Clip,,A274蛋糕靠枕小玉,0.72,3,0.86,3.02,0.213
+clip-48,Clip,,A274西瓜靠枕小库,0.72,3,0.86,3.02,0.213
+clip-49,Clip,,A274牛油果靠枕小布,0.72,3,0.86,3.02,0.213
+clip-50,Clip,,A274冰淇淋靠枕小帕,0.72,3,0.86,3.02,0.213
+clip-51,Clip,,A274草莓靠枕小美,0.72,3,0.86,3.02,0.213
+clip-52,Clip,,A274皇冠靠枕小凯,0.72,3,0.86,3.02,0.213
+clip-53,Clip,,A299-荷叶小玉,0.71,2,0.56,1.98,0.210
+clip-54,Clip,,A299-荷叶小凯,0.71,2,0.56,1.98,0.210
+pen-01,Pen,,601甜甜圈家族十色笔,1.7,36,24.29,85.49,0.506
+pen-yellow-dog,Pen,yellow-dog,2309黄色小狗刮刮乐盲盒,1.8,21,15.01,52.81,0.536
+pen-dog,Pen,dog,2310小狗狗刮刮乐盲盒,1.8,21,15.01,52.81,0.536
+pen-blue-dog,Pen,blue-dog,2303蓝色小狗刮刮乐盲盒,1.8,21,15.01,52.81,0.536
+pen-cute,Pen,cute,2301可爱家族刮刮乐盲盒,1.8,21,15.01,52.81,0.536
+pen-02,Pen,,9020蓝色小狗十色笔,1.7,36,24.29,85.49,0.506
+sticker-black,Sticker,black,80009可爱家族贴片,0.65,48,12.39,43.59,0.193
+sticker-black-2,Sticker,black,80013蓝色小狗贴片,0.65,48,12.39,43.59,0.193
+card-01,Card,,7009可爱家族修正带,3.18,20,25.25,88.85,0.947
+sticker-black-3,Sticker,black,80027可爱家族贴片,0.65,48,12.39,43.59,0.193
+card-02,Card,,0864三丽鸥修正带,3.18,20,25.25,88.85,0.947
+sticker-06,Sticker,,SZ-742TZ01,7.2,10,28.58,100.58,2.142
+sticker-bear,Sticker,bear,SZ-510TZ01,0.85,3,1.01,3.56,0.253
+sticker-bunny-pink-red,Sticker,bunny-pink-red,SZ-510TZ02,0.85,3,1.01,3.56,0.253
+sticker-07,Sticker,,SZ-582TZ02,0.9,3,1.07,3.77,0.267
+sticker-dog,Sticker,dog,SZ-510TZ04,0.85,3,1.01,3.56,0.253
+sticker-08,Sticker,,SZ-594TZ01,0.9,3,1.07,3.77,0.267
+sticker-09,Sticker,,SZ-594TZ02,0.9,3,1.07,3.77,0.267
+sticker-10,Sticker,,SZ-590TZ04,0.9,3,1.07,3.77,0.267
+sticker-11,Sticker,,SZ-511TZ01,0.85,2,0.67,2.37,0.250
+sticker-bear-2,Sticker,bear,SZ-512TZ01,0.85,3,1.01,3.56,0.253
+sticker-bear-3,Sticker,bear,SZ-590TZ03,0.9,3,1.07,3.77,0.267
+sticker-bunny,Sticker,bunny,SZ-512TZ02,0.85,3,1.01,3.56,0.253
+sticker-12,Sticker,,SZ-590TZ01,0.9,3,1.07,3.77,0.267
+sticker-bear-4,Sticker,bear,SZ-592TZ03,0.9,3,1.07,3.77,0.267
+sticker-13,Sticker,,SZ-594TZ04,0.9,3,1.07,3.77,0.267
+sticker-14,Sticker,,SZ-594TZ03,0.9,3,1.07,3.77,0.267
+sticker-bunny-2,Sticker,bunny,SZ-511TZ03,0.85,3,1.01,3.56,0.253
+sticker-a-b-c,Sticker,a-b-c,SZ-511TZ02,0.85,3,1.01,3.56,0.253
+sticker-15,Sticker,,SZ-510TZ03,0.85,3,1.01,3.56,0.253
+sticker-girly,Sticker,girly,SZ-697TZ01,6.9,10,27.39,96.39,2.053
+pen-purple-black-bunny,Pen,purple-black-bunny,,8.5,2,6.75,23.75,2.530
+pen-green-black-dog,Pen,green-black-dog,,8.5,2,6.75,23.75,2.530
+pen-cute-cat,Pen,cute-cat,,8.5,2,6.75,23.75,2.530
+pen-black-flower-dog,Pen,black-flower-dog,,8.5,2,6.75,23.75,2.530
+pen-blue-pink-dog,Pen,blue-pink-dog,,6.5,2,5.16,18.16,1.935
+pen-bunny-cute,Pen,bunny-cute,,6.5,4,10.32,36.32,1.935
+pen-bear,Pen,bear,,8.5,2,6.75,23.75,2.530
+pen-white-bunny,Pen,white-bunny,,6.5,4,10.32,36.32,1.935
+pen-white-dog,Pen,white-dog,,6.5,4,10.32,36.32,1.935
+pen-black-dog,Pen,black-dog,,6.5,2,5.16,18.16,1.935
+pen-cute-cat-2,Pen,cute-cat,,6.5,4,10.32,36.32,1.935
+sticker-16,Sticker,,,1.9,1,0.75,2.65,0.560
+bag-03,Bag,,,4.16,15,24.77,87.17,1.238
+bag-04,Bag,,,3.13,20,24.85,87.45,0.931
+bag-05,Bag,,,2.9,5,5.76,20.26,0.864
+keychain-cat,Keychain,cat,,3.9,3,4.64,16.34,1.160
+keychain-01,Keychain,,,3.9,3,4.64,16.34,1.160
+keychain-02,Keychain,,,3.9,3,4.64,16.34,1.160
+keychain-dog,Keychain,dog,,3.9,3,4.64,16.34,1.160
+keychain-dog-2,Keychain,dog,,3.9,3,4.64,16.34,1.160
+keychain-purple,Keychain,purple,,2.52,2,2.00,7.04,0.750
+keychain-white,Keychain,white,,2.52,2,2.00,7.04,0.750
+keychain-yellow,Keychain,yellow,,2.52,2,2.00,7.04,0.750
+keychain-pink,Keychain,pink,,2.52,2,2.00,7.04,0.750
+stickynote-time-a,Stickynote,time-a,K12645,1.2,2,0.95,3.35,0.355
+stickynote-time-d,Stickynote,time-d,K122651,1.2,2,0.95,3.35,0.355
+stickynote-time-c,Stickynote,time-c,K122652,1.2,2,0.95,3.35,0.355
+stickynote-time-b,Stickynote,time-b,K122646,1.2,2,0.95,3.35,0.355
+stickynote-star-c-dog,Stickynote,star-c-dog,01226,0.65,2,0.52,1.82,0.195
+stickynote-star-d-dog,Stickynote,star-d-dog,O1225,0.65,2,0.52,1.82,0.195
+stickynote-star-a-dog,Stickynote,star-a-dog,O1223,0.65,2,0.52,1.82,0.195
+stickynote-star-b-dog,Stickynote,star-b-dog,O1224,0.65,2,0.52,1.82,0.195
+stickynote-cat,Stickynote,cat,H40015,0.65,2,0.52,1.82,0.195
+stickynote-a-cat,Stickynote,a-cat,H40011,0.65,2,0.52,1.82,0.195
+stickynote-d-cat,Stickynote,d-cat,H40013,0.65,2,0.52,1.82,0.195
+stickynote-bear-b,Stickynote,bear-b,K1226625,1.2,3,1.43,5.03,0.357
+stickynote-bear-a,Stickynote,bear-a,K1226615,1.2,3,1.43,5.03,0.357
+pen-a,Pen,a,C30198,0.99,4,1.57,5.53,0.295
+pen-bear-yellow,Pen,bear-yellow,w112105,0.8,4,1.27,4.47,0.237
+pen-dog-a,Pen,dog-a,W1121086,0.99,4,1.57,5.53,0.295
+pen-cat-a,Pen,cat-a,w10310,0.99,4,1.57,5.53,0.295
+pen-cat,Pen,cat,w1121087,0.99,4,1.57,5.53,0.295
+stickynote-c-dog,Stickynote,c-dog,H123159193,0.65,2,0.52,1.82,0.195
+stickynote-b-dog,Stickynote,b-dog,H123159191,0.65,2,0.52,1.82,0.195
+stickynote-d-dog,Stickynote,d-dog,H123159192,0.65,2,0.52,1.82,0.195
+stickynote-a-dog,Stickynote,a-dog,H123159190,0.65,2,0.52,1.82,0.195
+stickynote-b,Stickynote,b,xz339,0.6,3,0.71,2.51,0.177
+stickynote-c,Stickynote,c,xz341,0.6,3,0.71,2.51,0.177
+stickynote-d,Stickynote,d,xz340,0.6,3,0.71,2.51,0.177
+stickynote-a,Stickynote,a,xz338,0.6,3,0.71,2.51,0.177
+keychain-purple-cat,Keychain,purple-cat,,2.62,3,3.12,10.98,0.780
+keychain-blue-cat,Keychain,blue-cat,,2.62,3,3.12,10.98,0.780
+keychain-pink-cat,Keychain,pink-cat,,2.62,3,3.12,10.98,0.780
+keychain-green,Keychain,green,,3.5,2,2.78,9.78,1.040
+keychain-white-2,Keychain,white,,3.5,2,2.78,9.78,1.040
+keychain-pink-2,Keychain,pink,,3.5,2,2.78,9.78,1.040
+keychain-blue,Keychain,blue,,3.5,2,2.78,9.78,1.040
+keychain-yellow-2,Keychain,yellow,,3.9,2,3.10,10.90,1.160
+keychain-blue-2,Keychain,blue,,3.9,2,3.10,10.90,1.160
+keychain-white-3,Keychain,white,,3.9,2,3.10,10.90,1.160
+keychain-pink-3,Keychain,pink,,3.9,2,3.10,10.90,1.160
+keychain-purple-2,Keychain,purple,,3.9,2,3.10,10.90,1.160
+plush-strawberry,Plush,strawberry,BD680A,7.2,2,5.72,20.12,2.145
+pencil-case-pink-brown,Pencil Case,pink-brown,BD032A樱桃蛋糕笔袋,7.2,2,5.72,20.12,2.145
+pencil-case-bow-black,Pencil Case,bow-black,BD032C,7.2,2,5.72,20.12,2.145
+pencil-case-01,Pencil Case,,BD032D,7.2,2,5.72,20.12,2.145
+pencil-case-white-pink,Pencil Case,white-pink,BD032B,7.2,2,5.72,20.12,2.145
+pencil-case-bear-cat,Pencil Case,bear-cat,BD007A小熊KT猫竖笔袋,6.6,2,5.24,18.44,1.965
+plush-black-cat,Plush,black-cat,BD014C印花KT笔袋,5,2,3.97,13.97,1.490
+plush-coffee-cat,Plush,coffee-cat,BD014B印花KT笔袋,5,2,3.97,13.97,1.490
+pencil-case-dot-bunny,Pencil Case,dot-bunny,BD211A,2.7,2,2.14,7.54,0.805
+plush-bunny,Plush,bunny,BD632A,4.6,20,36.52,128.52,1.369
+keychain-white-cat,Keychain,white-cat,GJ304-03,2,2,1.59,5.59,0.595
+keychain-blue-bear,Keychain,blue-bear,GJ304-02,2,2,1.59,5.59,0.595
+keychain-bow,Keychain,bow,GJ311-01,2.3,2,1.83,6.43,0.685
+keychain-03,Keychain,,GJ311-02,2.3,2,1.83,6.43,0.685
+keychain-bow-2,Keychain,bow,GJ311-04,2.5,2,1.98,6.98,0.745
+keychain-bunny,Keychain,bunny,GJ311-03,2.5,2,1.98,6.98,0.745
+keychain-pink-bunny,Keychain,pink-bunny,GJ304-04,2,2,1.59,5.59,0.595
+keychain-cat-2,Keychain,cat,GJ304-01,2,2,1.59,5.59,0.595
+scrunchie-cute-cat,Scrunchie,cute-cat,FQ1414-01,1.7,2,1.35,4.75,0.505
+scrunchie-bow-pink-dot,Scrunchie,bow-pink-dot,FQ1756-02,2.4,2,1.91,6.71,0.715
+scrunchie-bow-blue-dot,Scrunchie,bow-blue-dot,FQ1756-01,2.4,2,1.91,6.71,0.715
+scrunchie-pink,Scrunchie,pink,FQ1414-03,1.9,2,1.51,5.31,0.565
+scrunchie-bow-dot,Scrunchie,bow-dot,FQ1414-06,2.3,2,1.83,6.43,0.685
+scrunchie-bow-pink,Scrunchie,bow-pink,FQ1414-04,1.9,2,1.51,5.31,0.565
+scrunchie-blue-cat,Scrunchie,blue-cat,FQ1414-02,1.7,2,1.35,4.75,0.505
+scrunchie-blue-stripe,Scrunchie,blue-stripe,FQ1414-05,2.3,4,3.65,12.85,0.685
+scrunchie-blue-bunny-cute-flower,Scrunchie,blue-bunny-cute-flower,FQ1414-07,3.1,2,2.46,8.66,0.920
+scrunchie-red-bear-flower,Scrunchie,red-bear-flower,FQ1414-08,3.1,2,2.46,8.66,0.920
+charm-blue-dog,Charm,blue-dog,SH1401-01,3.5,2,2.78,9.78,1.040
+charm-purple,Charm,purple,SH1401-04,3.5,2,2.78,9.78,1.040
+charm-green-white,Charm,green-white,SH1401-05,3.5,2,2.78,9.78,1.040
+scrunchie-blue-flower,Scrunchie,blue-flower,FQ1532-03,3.2,2,2.54,8.94,0.950
+scrunchie-pink-dog,Scrunchie,pink-dog,FQ1714-04,3.7,2,2.94,10.34,1.100
+scrunchie-pink-bear,Scrunchie,pink-bear,FQ1714-01,3.7,2,2.94,10.34,1.100
+scrunchie-bow-blue,Scrunchie,bow-blue,FQ1731-07,3.5,2,2.78,9.78,1.040
+scrunchie-pink-flower,Scrunchie,pink-flower,FQ1532-04,3.2,2,2.54,8.94,0.950
+scrunchie-blue-bear,Scrunchie,blue-bear,FQ1713-05,3.7,2,2.94,10.34,1.100
+scrunchie-bow-pink-2,Scrunchie,bow-pink,FQ1731-05,3.5,2,2.78,9.78,1.040
+scrunchie-blue-dot-dog,Scrunchie,blue-dot-dog,FQ1713-04,3.7,2,2.94,10.34,1.100
+scrunchie-pink-dot,Scrunchie,pink-dot,FQ1714-03,3.7,2,2.94,10.34,1.100
+scrunchie-bow-blue-2,Scrunchie,bow-blue,FQ1532-01,3.2,2,2.54,8.94,0.950
+scrunchie-red,Scrunchie,red,FQ1588-02,3.2,2,2.54,8.94,0.950
+scrunchie-bow-pink-3,Scrunchie,bow-pink,FQ1532-02,3.2,2,2.54,8.94,0.950
+scrunchie-bow-red,Scrunchie,bow-red,FQ1588-04,3.2,2,2.54,8.94,0.950
+scrunchie-red-2,Scrunchie,red,FQ1588-03,3.2,2,2.54,8.94,0.950
+scrunchie-red-3,Scrunchie,red,FQ1588-01,3.2,2,2.54,8.94,0.950
+plush-blue-food,Plush,blue-food,GJ769-01,3,2,2.38,8.38,0.890
+plush-yellow,Plush,yellow,GJ769-02,3,2,2.38,8.38,0.890
+keychain-white-dog,Keychain,white-dog,GJ890-01,2.2,3,2.62,9.22,0.653
+keychain-dot,Keychain,dot,GJ890-02,2.2,3,2.62,9.22,0.653
+keychain-flower,Keychain,flower,GJ890-03,2.2,3,2.62,9.22,0.653
+keychain-bear,Keychain,bear,GJ603-05,4.8,2,3.81,13.41,1.430
+keychain-bear-2,Keychain,bear,GJ603-04,4.2,2,3.33,11.73,1.250
+keychain-bear-3,Keychain,bear,GJ603-02,3.5,2,2.78,9.78,1.040
+hair-clip-cute-dot,Hair Clip,cute-dot,FJ1797-06,2.2,2,1.75,6.15,0.655
+hair-clip-bear,Hair Clip,bear,FJ1967-02,2.4,2,1.91,6.71,0.715
+hair-clip-dog,Hair Clip,dog,FJ1967-01,2.4,2,1.91,6.71,0.715
+hair-clip-cute,Hair Clip,cute,FJ1797-05,2.2,2,1.75,6.15,0.655
+hair-clip-bow-cat,Hair Clip,bow-cat,FJ1967-03,2.4,2,1.91,6.71,0.715
+hair-clip-bow-pink,Hair Clip,bow-pink,FJ1686-06,1.4,2,1.11,3.91,0.415
+hair-clip-01,Hair Clip,,FJ1555-02,1.2,2,0.95,3.35,0.355
+hair-clip-bow,Hair Clip,bow,FJ1555-01,1.2,2,0.95,3.35,0.355
+hair-clip-bow-2,Hair Clip,bow,FJ1732-06,2,2,1.59,5.59,0.595
+hair-clip-pink,Hair Clip,pink,FJ1686-04,1.4,2,1.11,3.91,0.415
+hair-clip-02,Hair Clip,,FJ1732-05,1.8,2,1.43,5.03,0.535
+hair-clip-bow-dot,Hair Clip,bow-dot,FJ1732-04,1.5,2,1.19,4.19,0.445
+hair-clip-dot,Hair Clip,dot,FJ1732-02,1.5,2,1.19,4.19,0.445
+hair-clip-bunny,Hair Clip,bunny,FJ1657-05,1.8,2,1.43,5.03,0.535
+hair-clip-dog-2,Hair Clip,dog,FJ1754-03,2,2,1.59,5.59,0.595
+hair-clip-dog-3,Hair Clip,dog,FJ1657-06,2,2,1.59,5.59,0.595
+hair-clip-dog-4,Hair Clip,dog,FJ1754-01,2,2,1.59,5.59,0.595
+hair-clip-dog-5,Hair Clip,dog,FJ1722-01,2.2,2,1.75,6.15,0.655
+hair-clip-blue,Hair Clip,blue,FJ1722-04,2.2,2,1.75,6.15,0.655
+hair-clip-dog-6,Hair Clip,dog,FJ1754-04,2,2,1.59,5.59,0.595
+hair-clip-dog-7,Hair Clip,dog,FJ1657-02,2,2,1.59,5.59,0.595
+hair-clip-bow-bunny,Hair Clip,bow-bunny,FJ1722-03,2.2,2,1.75,6.15,0.655
+hair-clip-dog-8,Hair Clip,dog,FJ1722-02,2.2,2,1.75,6.15,0.655
+hair-clip-dog-9,Hair Clip,dog,FJ1754-02,2,2,1.59,5.59,0.595
+hair-clip-purple-yellow,Hair Clip,purple-yellow,FJ1792-01,1.7,5,3.37,11.87,0.506
+hair-clip-blue-2,Hair Clip,blue,FJ2046-03,1.9,5,3.77,13.27,0.566
+hair-clip-blue-pink,Hair Clip,blue-pink,FJ1792-02,1.7,5,3.37,11.87,0.506
+keychain-blue-bunny,Keychain,blue-bunny,GJ906-03,3.7,2,2.94,10.34,1.100
+keychain-purple-bunny-white,Keychain,purple-bunny-white,GJ654-04,3.5,2,2.78,9.78,1.040
+keychain-green-bunny,Keychain,green-bunny,GJ906-02,3.7,2,2.94,10.34,1.100
+keychain-white-bunny,Keychain,white-bunny,GJ654-01,3.5,2,2.78,9.78,1.040
+keychain-black-cat,Keychain,black-cat,GJ696-02,4,2,3.18,11.18,1.190
+keychain-black-bunny,Keychain,black-bunny,GJ654-02,3.5,2,2.78,9.78,1.040
+keychain-white-cat-2,Keychain,white-cat,GJ696-01,4,2,3.18,11.18,1.190
+keychain-cat-3,Keychain,cat,GJ356-02,3.7,2,2.94,10.34,1.100
+keychain-pink-bunny-2,Keychain,pink-bunny,GJ906-01,3.7,2,2.94,10.34,1.100
+keychain-bunny-2,Keychain,bunny,GJ356-01,3.7,2,2.94,10.34,1.100
+hair-clip-red-bunny,Hair Clip,red-bunny,FJ1876-01,1,5,1.98,6.98,0.298
+hair-clip-black-bunny,Hair Clip,black-bunny,FJ1876-04,1,5,1.98,6.98,0.298
+hair-clip-blue-bunny,Hair Clip,blue-bunny,FJ1876-02,1,5,1.98,6.98,0.298
+hair-clip-pink-bunny,Hair Clip,pink-bunny,FJ1876-03,1,5,1.98,6.98,0.298
+notebook-01,Notebook,,E15小美头小帕便签,0.65,2,0.52,1.82,0.195
+notebook-02,Notebook,,E15丑鱼头小帕便签,0.65,2,0.52,1.82,0.195
+notebook-star,Notebook,star,E15星星小帕便签,0.65,2,0.52,1.82,0.195
+notebook-03,Notebook,,E15小库头小帕便签,0.65,2,0.52,1.82,0.195
+notebook-04,Notebook,,E15小玉头小帕便签,0.65,2,0.52,1.82,0.195
+notebook-05,Notebook,,E15小布头小帕便签,0.65,2,0.52,1.82,0.195
+notebook-06,Notebook,,E16睡衣小库便签,0.65,2,0.52,1.82,0.195
+notebook-07,Notebook,,E16睡衣小布便签,0.65,2,0.52,1.82,0.195
+notebook-08,Notebook,,E16睡衣小凯便签,0.65,2,0.52,1.82,0.195
+notebook-09,Notebook,,E16睡衣小丑鱼便签,0.65,2,0.52,1.82,0.195
+notebook-10,Notebook,,E16睡衣小玉便签,0.65,2,0.52,1.82,0.195
+notebook-11,Notebook,,E16睡衣小帕便签,0.65,2,0.52,1.82,0.195
+notebook-12,Notebook,,E16睡衣小美便签,0.65,2,0.52,1.82,0.195
+notebook-blue-heart-dog-2,Notebook,blue-heart-dog,蓝色爱心玉桂狗,0.83,2,0.66,2.32,0.245
+notebook-green-heart-blue-dog-2,Notebook,green-heart-blue-dog,蓝绿色爱心帕恰狗,0.83,2,0.66,2.32,0.245
+notebook-purple-heart-a-2,Notebook,purple-heart-a,紫色爱心库洛米,0.83,2,0.66,2.32,0.245
+notebook-heart-brown-dog-2,Notebook,heart-brown-dog,棕色爱心布丁狗,0.83,2,0.66,2.32,0.245
+notebook-pink-heart-2,Notebook,pink-heart,粉色爱心美乐蒂,0.83,2,0.66,2.32,0.245
+notebook-pink-a-2,Notebook,pink-a,A7粉色美乐蒂线圈本,0.83,2,0.66,2.32,0.245
+notebook-blue-dog-a-2,Notebook,blue-dog-a,A7蓝色玉桂狗线圈本,0.83,2,0.66,2.32,0.245
+notebook-purple-a-2,Notebook,purple-a,A7紫色库洛米线圈本,0.83,2,0.66,2.32,0.245
+notebook-brown-dog-a-2,Notebook,brown-dog-a,A7棕色 布丁狗线圈本,0.83,2,0.66,2.32,0.245
+notebook-green-dog-a-2,Notebook,green-dog-a,A7绿色帕恰狗线圈本,0.83,2,0.66,2.32,0.245
+sticker-17,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-18,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-19,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-20,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-21,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-22,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-23,Sticker,,B22,2.75,2,2.18,7.68,0.820
+sticker-24,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-25,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-26,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-27,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-28,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-29,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-30,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-31,Sticker,,,3.58,2,2.84,10.00,1.065
+sticker-32,Sticker,,,3.58,2,2.84,10.00,1.065
+sticker-33,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-34,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-35,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-36,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-37,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-38,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-39,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-40,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-41,Sticker,,,3.58,2,2.84,10.00,1.065
+sticker-42,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-43,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-44,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-45,Sticker,,,2.75,2,2.18,7.68,0.820
+sticker-46,Sticker,,,2.75,2,2.18,7.68,0.820
+bag-06,Bag,,,4.5,2,3.57,12.57,1.340
+bag-07,Bag,,,4.5,2,3.57,12.57,1.340
+bag-dog,Bag,dog,,4.5,4,7.15,25.15,1.340
+bag-dog-2,Bag,dog,,4.5,4,7.15,25.15,1.340
+bag-dog-3,Bag,dog,,4.5,4,7.15,25.15,1.340
+bag-dog-4,Bag,dog,,4.5,4,7.15,25.15,1.340
+notebook-13,Notebook,,,4.5,2,3.57,12.57,1.340
+notebook-14,Notebook,,,4.5,2,3.57,12.57,1.340
+notebook-yellow,Notebook,yellow,,4.5,2,3.57,12.57,1.340
+notebook-dog,Notebook,dog,,4.5,2,3.57,12.57,1.340
+notebook-dog-2,Notebook,dog,,4.5,2,3.57,12.57,1.340
+notebook-dog-3,Notebook,dog,,4.5,2,3.57,12.57,1.340
+notebook-dog-4,Notebook,dog,,4.5,2,3.57,12.57,1.340
+notebook-dog-5,Notebook,dog,,4.5,2,3.57,12.57,1.340
+bag-dog-5,Bag,dog,,4.5,2,3.57,12.57,1.340
+bag-green-dog,Bag,green-dog,,4.5,2,3.57,12.57,1.340
+bag-dog-6,Bag,dog,,4.5,2,3.57,12.57,1.340
+bag-dog-7,Bag,dog,,4.5,2,3.57,12.57,1.340
+bag-dog-8,Bag,dog,,4.5,2,3.57,12.57,1.340
+bag-08,Bag,,,4.5,2,3.57,12.57,1.340
+bag-09,Bag,,,4.5,2,3.57,12.57,1.340
+bag-10,Bag,,,4.5,2,3.57,12.57,1.340
+bag-11,Bag,,,4.5,2,3.57,12.57,1.340
+bag-12,Bag,,,4.5,2,3.57,12.57,1.340
+model-cat,Model,cat,,38,20,301.70,1061.70,11.307
+pen-dot-heart-bunny,Pen,dot-heart-bunny,BDKLXKXSMFTB5BJB,3.2,3,3.81,13.41,0.953
+pen-bunny,Pen,bunny,BQYYKXSMFTB5BJB,3.2,3,3.81,13.41,0.953
+pen-fair-isle-pink-bunny,Pen,fair-isle-pink-bunny,FSFEDKXSMFTB5BJB,3.2,3,3.81,13.41,0.953
+pen-bunny-2,Pen,bunny,TSDGMFTB5BJB,3.2,3,3.81,13.41,0.953
+pen-bunny-3,Pen,bunny,JTBLMFTB5BJB,3.2,3,3.81,13.41,0.953
+pen-blue-rainbow-bunny-b,Pen,blue-rainbow-bunny-b,LSYYMFTCHPMBJB,6,2,4.76,16.76,1.785
+pen-blue-rainbow-bunny-b-2,Pen,blue-rainbow-bunny-b,LSPGMFTCHPMBJB,6,2,4.76,16.76,1.785
+pen-rainbow,Pen,rainbow,SCKLMBJB,3.2,5,6.35,22.35,0.952
+pen-rainbow-dog,Pen,rainbow-dog,SCYGGBJB,3.2,5,6.35,22.35,0.952
+pen-rainbow-2,Pen,rainbow,SCMLDBJB,3.2,5,6.35,22.35,0.952
+pen-rainbow-cat,Pen,rainbow-cat,SCKDMBJB,3.2,5,6.35,22.35,0.952
+pen-rainbow-dog-2,Pen,rainbow-dog,SCPQGBJB,3.2,5,6.35,22.35,0.952
+pen-rainbow-dog-3,Pen,rainbow-dog,SCBDGBJB,3.2,5,6.35,22.35,0.952
+pen-blue-dot-rainbow-bunny-b,Pen,blue-dot-rainbow-bunny-b,BDYYMFTQCPMBJB,6,2,4.76,16.76,1.785
+pen-bunny-4,Pen,bunny,PTMFTB5BJB,3.2,5,6.35,22.35,0.952
+pen-star-bunny,Pen,star-bunny,XXMFTB5BJB,3.2,5,6.35,22.35,0.952
+pen-bunny-5,Pen,bunny,YTMFTB5BJB,3.2,5,6.35,22.35,0.952
+pen-bunny-6,Pen,bunny,YYMFTB5BJB,3.2,5,6.35,22.35,0.952
+pen-bear-2,Pen,bear,MTQSXB5BJB,3.2,3,3.81,13.41,0.953
+pen-bear-3,Pen,bear,SYQSXB5BJB,3.2,3,3.81,13.41,0.953
+sticker-rainbow-bunny-b,Sticker,rainbow-bunny-b,PTMFTQCPMBJB,6,2,4.76,16.76,1.785
+pen-heart-bunny,Pen,heart-bunny,B5KLXMFTBJB,3.2,5,6.35,22.35,0.952
+pen-bunny-7,Pen,bunny,B5QTYMFTBJB,3.2,5,6.35,22.35,0.952
+pen-bunny-8,Pen,bunny,B5TPSMFTBJB,3.2,5,6.35,22.35,0.952
+pen-bunny-9,Pen,bunny,JSMFTB5BJB,3.2,3,3.81,13.41,0.953
+pen-pink-strawberry-bear,Pen,pink-strawberry-bear,FSCMQSXB5BJB,3.2,3,3.81,13.41,0.953
+pen-yellow-bear,Pen,yellow-bear,HSBDQSXB5BJB,3.2,3,3.81,13.41,0.953
+pen-green-bear,Pen,green-bear,LSBZQSXB5BJB,3.2,3,3.81,13.41,0.953
+pen-bear-4,Pen,bear,XJBLQSXB5BJB,3.2,3,3.81,13.41,0.953
+lego-01,Lego,,,4.1,4,6.51,22.91,1.220
+lego-02,Lego,,,4.1,4,6.51,22.91,1.220
+lego-flower,Lego,flower,,4.1,4,6.51,22.91,1.220
+lego-03,Lego,,,4.1,4,6.51,22.91,1.220
+lego-04,Lego,,,3.05,4,4.84,17.04,0.907
+lego-05,Lego,,,3.05,4,4.84,17.04,0.907
+lego-candy,Lego,candy,,3.05,4,4.84,17.04,0.907
+lego-06,Lego,,,3.05,4,4.84,17.04,0.907
+lego-flower-2,Lego,flower,,3.05,4,4.84,17.04,0.907
+lego-07,Lego,,,5.2,4,8.26,29.06,1.548
+lego-dog,Lego,dog,,5.2,4,8.26,29.06,1.548
+lego-dog-2,Lego,dog,,5.2,4,8.26,29.06,1.548
+lego-bear,Lego,bear,,5.2,4,8.26,29.06,1.548
+lego-08,Lego,,,5.2,4,8.26,29.06,1.548
+lego-09,Lego,,,5.2,4,8.26,29.06,1.548
+lego-bear-2,Lego,bear,,2,4,3.18,11.18,0.595
+lego-star-flower,Lego,star-flower,,2,4,3.18,11.18,0.595
+lego-cloud,Lego,cloud,,2,4,3.18,11.18,0.595
+lego-10,Lego,,,2,4,3.18,11.18,0.595
+lego-flower-3,Lego,flower,,2,4,3.18,11.18,0.595
+lego-11,Lego,,,2,4,3.18,11.18,0.595
+bag-blue,Bag,blue,SQ21-lan,6.6,2,5.24,18.44,1.965
+pouch-blue,Pouch,blue,SQ25-lan,4.9,2,3.89,13.69,1.460
+pouch-green,Pouch,green,SQ25-lv,4.9,2,3.89,13.69,1.460
+pouch-pink,Pouch,pink,SQ25-fen,4.9,2,3.89,13.69,1.460
+plush-blue-leopard,Plush,blue-leopard,GX27-lan,6.6,2,5.24,18.44,1.965
+plush-pink-brown-leopard,Plush,pink-brown-leopard,GX27-qian,6.6,2,5.24,18.44,1.965
+plush-black-brown-leopard,Plush,black-brown-leopard,GX27-zong,6.6,2,5.24,18.44,1.965
+plush-yellow-leopard,Plush,yellow-leopard,GX27-huang,6.6,2,5.24,18.44,1.965
+plush-pink-leopard,Plush,pink-leopard,GX27-fen,6.6,2,5.24,18.44,1.965
+charm-green,Charm,green,FX57-lv,2.9,2,2.30,8.10,0.865
+charm-red,Charm,red,FX57-red,2.9,2,2.30,8.10,0.865
+plush-pink-brown,Plush,pink-brown,GX30-pink,9.8,2,7.78,27.38,2.915
+plush-yellow-2,Plush,yellow,GX30-huang,9.8,2,7.78,27.38,2.915
+plush-brown,Plush,brown,GX30-ka,9.8,2,7.78,27.38,2.915
+plush-blue,Plush,blue,GX30-lan,9.8,2,7.78,27.38,2.915
+plush-pink,Plush,pink,GX30-fen,9.8,2,7.78,27.38,2.915
+plush-brown-2,Plush,brown,SQ26-zong,10.5,5,20.84,73.34,3.124
+plush-pink-2,Plush,pink,SQ26-fen,10.5,10,41.68,146.68,3.124
+plush-red,Plush,red,SQ26-rose,10.5,5,20.84,73.34,3.124
+pouch-bow-blue,Pouch,bow-blue,LM10-xiao,5.5,3,6.55,23.05,1.637
+pouch-bow-pink,Pouch,bow-pink,LM09-xiao,5.5,3,6.55,23.05,1.637
+makeup-bag-white,Makeup Bag,white,LM78-bai,6.6,3,7.86,27.66,1.963
+makeup-bag-pink,Makeup Bag,pink,LM78-fen,6.6,3,7.86,27.66,1.963
+plush-10,Plush,,FX41-qie,2.65,2,2.10,7.40,0.790
+makeup-bag-green,Makeup Bag,green,GX26-lv,6.8,3,8.10,28.50,2.023
+makeup-bag-pink-2,Makeup Bag,pink,GX26-fen,6.8,3,8.10,28.50,2.023
+pencil-case-green,Pencil Case,green,GX31-lv,6.3,2,5.00,17.60,1.875
+pencil-case-white,Pencil Case,white,GX31-bai,6.3,2,5.00,17.60,1.875
+pencil-case-pink,Pencil Case,pink,GX31-fen,6.3,2,5.00,17.60,1.875
+pencil-case-yellow,Pencil Case,yellow,LM23-huang,5.5,2,4.37,15.37,1.635
+pencil-case-pink-2,Pencil Case,pink,LM23-fen,5.5,2,4.37,15.37,1.635
+pencil-case-blue,Pencil Case,blue,LM23-lan,5.5,2,4.37,15.37,1.635
+makeup-bag-heart-pink-flower,Makeup Bag,heart-pink-flower,SQ18-fen,6.6,3,7.86,27.66,1.963
+makeup-bag-bow-star-black-pink,Makeup Bag,bow-star-black-pink,SQ18-hei,6.6,3,7.86,27.66,1.963
+makeup-bag-heart-blue,Makeup Bag,heart-blue,SQ18-lan,6.6,3,7.86,27.66,1.963
+makeup-bag-blue-pink-flower,Makeup Bag,blue-pink-flower,SQ18-hua,6.6,3,7.86,27.66,1.963
+plush-pink-brown-2,Plush,pink-brown,GX21-qian,7.4,2,5.88,20.68,2.200
+plush-brown-3,Plush,brown,GX21-zong,7.4,2,5.88,20.68,2.200
+plush-pink-3,Plush,pink,GX21-fen,7.4,2,5.88,20.68,2.200
+plush-purple,Plush,purple,GX21-zi,7.4,2,5.88,20.68,2.200
+plush-blue-2,Plush,blue,GX21-lan,7.4,2,5.88,20.68,2.200
+makeup-bag-red-checker,Makeup Bag,red-checker,FK03-red,6.6,2,5.24,18.44,1.965
+makeup-bag-blue-checker,Makeup Bag,blue-checker,FK03-lan,6.6,2,5.24,18.44,1.965
+makeup-bag-pink-checker,Makeup Bag,pink-checker,FK03-fen,6.6,2,5.24,18.44,1.965
+makeup-bag-yellow-checker,Makeup Bag,yellow-checker,FK03-huang,6.6,2,5.24,18.44,1.965
+pencil-case-white-2,Pencil Case,white,TY69-bai,7.9,2,6.27,22.07,2.350
+pencil-case-pink-3,Pencil Case,pink,TY69-fen,7.9,2,6.27,22.07,2.350
+pencil-case-black,Pencil Case,black,TY69-hei,7.9,2,6.27,22.07,2.350
+plush-blue-3,Plush,blue,XB21-lan,6,3,7.15,25.15,1.787
+plush-white,Plush,white,XB21-bai,6,3,7.15,25.15,1.787
+pouch-white-small,Pouch,white-small,GX13-bai,6.7,3,7.98,28.08,1.993
+pouch-pink-small,Pouch,pink-small,GX13-fen,6.7,3,7.98,28.08,1.993
+bag-green,Bag,green,SQ21-lv,6.6,2,5.24,18.44,1.965
+bag-pink,Bag,pink,SQ21-fen,6.6,2,5.24,18.44,1.965
+pen-cat-2,Pen,cat,,1.35,4,2.14,7.54,0.403
+pen-heart,Pen,heart,,1.35,4,2.14,7.54,0.403
+journal-01,Journal,,6427,1.45,4,2.30,8.10,0.432
+journal-02,Journal,,6410,1.45,4,2.30,8.10,0.432
+notebook-dog-a,Notebook,dog-a,,0.85,8,2.70,9.50,0.253
+notebook-gold-dog,Notebook,gold-dog,,1.65,4,2.62,9.22,0.490
+notebook-gold,Notebook,gold,,1.65,4,2.62,9.22,0.490
+notebook-gold-2,Notebook,gold,,1.65,4,2.62,9.22,0.490
+paint-by-number-c,Paint By Number,c,,3.5,2,2.78,9.78,1.040
+paint-by-number-01,Paint By Number,,,3.5,2,2.78,9.78,1.040
+paint-by-number-c-2,Paint By Number,c,,3.5,2,2.78,9.78,1.040
+paint-by-number-a,Paint By Number,a,,3.5,2,2.78,9.78,1.040
+paint-by-number-d,Paint By Number,d,,3.5,2,2.78,9.78,1.040
+paint-by-number-a-2,Paint By Number,a,,3.5,2,2.78,9.78,1.040
+paint-by-number-a-3,Paint By Number,a,,3.5,2,2.78,9.78,1.040
+paint-by-number-02,Paint By Number,,,3.5,2,2.78,9.78,1.040
+paint-by-number-a-4,Paint By Number,a,,3.5,2,2.78,9.78,1.040
+paint-by-number-c-3,Paint By Number,c,,3.5,2,2.78,9.78,1.040
+paint-by-number-d-2,Paint By Number,d,,3.5,2,2.78,9.78,1.040
+paint-by-number-d-3,Paint By Number,d,,3.5,2,2.78,9.78,1.040
+paint-by-number-c-4,Paint By Number,c,,3.5,2,2.78,9.78,1.040
+paint-by-number-a-5,Paint By Number,a,,3.5,2,2.78,9.78,1.040
+paint-by-number-d-4,Paint By Number,d,,3.5,2,2.78,9.78,1.040
+paint-by-number-c-5,Paint By Number,c,,3.5,2,2.78,9.78,1.040
+paint-by-number-c-6,Paint By Number,c,,3.5,2,2.78,9.78,1.040
+paint-by-number-03,Paint By Number,,,3.5,2,2.78,9.78,1.040
+paint-by-number-d-5,Paint By Number,d,,3.5,2,2.78,9.78,1.040
+paint-by-number-c-7,Paint By Number,c,,3.5,2,2.78,9.78,1.040
+paint-by-number-c-8,Paint By Number,c,,3.5,2,2.78,9.78,1.040
+paint-by-number-a-6,Paint By Number,a,,3.5,2,2.78,9.78,1.040
+paint-by-number-c-9,Paint By Number,c,,3.5,2,2.78,9.78,1.040
+paint-by-number-c-10,Paint By Number,c,,3.5,2,2.78,9.78,1.040
+paint-by-number-c-11,Paint By Number,c,,3.5,2,2.78,9.78,1.040
+makeup-bag-bow-pink-white,Makeup Bag,bow-pink-white,,12.7,2,10.08,35.48,3.780
+makeup-bag-flower,Makeup Bag,flower,,12.7,2,10.08,35.48,3.780
+makeup-bag-01,Makeup Bag,,,12.7,2,10.08,35.48,3.780
+makeup-bag-blue-butterfly,Makeup Bag,blue-butterfly,,12.7,2,10.08,35.48,3.780
+makeup-bag-pink-3,Makeup Bag,pink,,9,2,7.15,25.15,2.680
